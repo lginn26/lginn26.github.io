@@ -17,8 +17,8 @@ title: Louis Godfrey.com
 email: lginn26@users.noreply.github.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is suppoused to be the welcome message, but it has yet to be written.
-baseurl: "http://www.louisgodfrey.com/" # the subpath of your site, e.g. /blog
-url: "louisgodfrey.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://www.louisgodfrey.com/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: N/A
 github_username:  Louis Godfrey
 # Build settings
