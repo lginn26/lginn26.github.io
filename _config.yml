@@ -25,6 +25,9 @@ github_username:  Louis Godfrey
 markdown: kramdown
 plugins:
   - jekyll-feed
+sass:
+  style: compressed
+livereload: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
